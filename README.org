@@ -25,3 +25,7 @@
 - [ ] Collect all writeable fields
 - [ ] Calculate attribute saving throws
 - [ ] ...
+
+* IDEAS
+
+- Character image as inline image
