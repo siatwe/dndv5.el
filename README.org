@@ -1,0 +1,27 @@
+#+TITLE: DND V5 ELISP
+
+*Not useable yet*
+
+* Library with useful functions for the pen and paper Dungeon and Dragons ruleset version 5
+
+- Export your complete character sheet to Org mode
+- Edit your values in elisp and get all the relevant calculations
+- Simply roll the dice for all possibilities
+
+* Function and var prefixes
+
+** dndv5/w-*
+
+- 'writeable'
+- This values are writeable and should be edited!
+
+** dndv5/r-*
+
+- 'readonly'
+- This values will be calculated and should not be edited!
+
+* TODO
+
+- [ ] Collect all writeable fields
+- [ ] Calculate attribute saving throws
+- [ ] ...
